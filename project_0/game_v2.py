@@ -1,6 +1,6 @@
 import numpy as np
 
-def random_predict(number) -> int:
+def random_predict(number:int=1) -> int:
     """ Рандомно угадываем число
 
     Args:
@@ -18,6 +18,7 @@ def random_predict(number) -> int:
             break
     return(count)
 
+print(f'Количество попыток: {random_predict()}')
 
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем за 1000 подходов угадывает алгоритм
