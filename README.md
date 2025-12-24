@@ -1,2 +1,9 @@
-# kskogai_ds
-Data Science and ML projects rep
+# My ML and Data Science projects
+
+## Проекты
+
+* [Проект 0. Игра: Угадай число]()
+* [Проект 1. __________________]()
+* [Проект 2. __________________]()
+
+## Резюме
