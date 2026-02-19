@@ -2,15 +2,15 @@
 
 ## Оглавление
 
-[1. Описание проекта]
+[1. Описание проекта](https://github.com/kskogai/kskogai_ds/blob/main/DS%20Practice%20Projects/PROJECT-1/README.md#описание-проекта)
 
-[2. Какой кейс решаем]
+[2. Какой кейс решаем](https://github.com/kskogai/kskogai_ds/blob/main/DS%20Practice%20Projects/PROJECT-1/README.md#какой-кейс-решаем)
 
-[3. Информация о данных]
+[3. Информация о данных](https://github.com/kskogai/kskogai_ds/blob/main/DS%20Practice%20Projects/PROJECT-1/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы над проектом]
+[4. Этапы работы над проектом](https://github.com/kskogai/kskogai_ds/blob/main/DS%20Practice%20Projects/PROJECT-1/README.md#этапы-работы-над-проектом)
 
-[5. Выводы]
+[5. Выводы](https://github.com/kskogai/kskogai_ds/blob/main/DS%20Practice%20Projects/PROJECT-1/README.md#выводы)
 
 ### Описание проекта
 
@@ -36,4 +36,4 @@
 
 ### Выводы
 
-Я выполнил всю необходимую предобработку данных и провел разведывательный анализ, который отразил в графиках.
+Была выполнена необходимая предобработка данных и проведен разведывательный анализ, который отражен в графиках.
